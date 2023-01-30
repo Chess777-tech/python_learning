@@ -10,4 +10,4 @@ class Car():
         return long_name.title() 
     
 my_new_car = Car('audo','a4','2019')
-print(my_new_car.get_descriptive_name)
+print(my_new_car.get_descriptive_name())
